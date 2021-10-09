@@ -1,0 +1,54 @@
+body {
+	color:#006f71;
+	font-family: arial;
+	text-align: center;
+	background-image: url(https://cf-images.us-east-1.prod.boltdns.net/v1/static/5618154290001/5699f137-e92c-492b-91ab-c4b4b16df840/1b044eee-cf2b-47b4-8242-7c771ca99810/1280x720/match/image.jpg);
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-size: cover;
+}
+img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 500px;
+	border: 1px solid black;
+}
+.heading {
+	font-weight: bold;
+	-webkit-text-stroke: 1px black;
+}
+.heading2 {
+	color:#A27752;
+	-webkit-text-stroke: 1px black;
+}
+
+p {
+	font-size: 28px;
+}
+figcaption {
+	font-size:12px;
+	color:black;
+}
+.midblock {
+	margin-left: 300px;
+	margin-right: 300px;
+	color:white;
+	-webkit-text-stroke: 1.2px black;
+	background-color: hsl(180,100%,25%,.5);
+}
+.left {
+	float: left;
+}
+.right {
+	float: right;
+}
+a {
+	margin-left: 300px;
+	margin-right: 300px;
+	background-color: hsl(180,100%,25%,.5);
+	font-size: 28px;
+}
+a:hover {
+	color:red;
+}
